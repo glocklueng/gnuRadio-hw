@@ -1,0 +1,2 @@
+schematics clock.sch dboard.sch fpga.sch interface.sch power.sch
+output-name usrp_mboard

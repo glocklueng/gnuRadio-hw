@@ -1,0 +1,16 @@
+
+Element[0x00000000 "SMD_1008" "" "" 0 0 0 0 3 100 0x00000000]
+(
+#  Part input parameters: w=110, l=115, x=100, y=40, g=50 
+# Pad is higher than wide, so draw pad line vertically.
+#  Create two pads.
+   Pad(-45 -30 -45 30 40 20 48 "Pad_1" "1" 0x00000100)
+   Pad(45 -30 45 30 40 20 48 "Pad_2" "2" 0x00000100)
+# Using maximum pad size def for .
+# Using maximum pad size def for w.
+#  Create package body outline on silk layer.
+   ElementLine(-91 -76 91 -76 12)
+   ElementLine(-91 76 91 76 12)
+   ElementLine(-91 -76 -91 76 12)
+   ElementLine(91 -76 91 76 12)
+)

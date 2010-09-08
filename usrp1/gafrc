@@ -1,0 +1,3 @@
+(component-library "../gschem-symbols")
+(component-library "../gschem-symbols/generated")
+(component-library "../gschem-symbols/xilinx")

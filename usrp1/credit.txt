@@ -1,0 +1,1 @@
+The USRP1 was designed by Matt Ettus. Matt Ettus is awesome.

@@ -1,0 +1,2 @@
+schematics clock.sch dboard.sch config.sch ethernet.sch expansion.sch fpga.sch power.sch ram.sch
+output-name usrp2_mboard
